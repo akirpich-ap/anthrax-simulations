@@ -9,11 +9,17 @@ Anthrax simulations for the manuscript “Alteration of exosporium surface oligo
 The repository contains the following folders:
 
 Data – the original anthrax sequences used in the simulation
+
 Design – the folder contains the design file for the simulation scenarios
+
 Documentation – the documentation folder
+
 Plots – the intermediate plots produced within the code
+
 R_Code – the R code used for simulation
+
 R_Data – the folder in which the summaries from the individual runs from High Performance Computer (i.e. cluster or HPC) are combined.
+
 R_Output – the folder contains the summary outputs that were used to produce parts of Figure 1 Including the quantiles for multiple simulations. 
 
 R_Code folder files have the following goals:
